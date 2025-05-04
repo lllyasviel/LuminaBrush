@@ -6,6 +6,10 @@ LuminaBrush is a project to build an interactive tool to draw illumination effec
 
 The framework is a two-stage method: one stage to convert an image to a "uniformly-lit" appearance, and another stage to generate the illumination effect with user scribbles.
 
+# Notes
+
+2025 May 01: The huggingface space in under maintenance now ...
+
 # Demos
 
 LuminaBrush is currently based on Flux.
