@@ -72,7 +72,7 @@ https://huggingface.co/spaces/lllyasviel/lumina_brush_uniform_lit
 
     @Misc{luminabrush2024,
       author = {LuminaBrush Team},
-      title  = {LuminaBrush: Illumination Drawing Tools for Text-to-Image Diffusion Models},
+      title  = {LuminaBrush:. Illumination Drawing Tools for Text-to-Image Diffusion Models},
       year   = {2024},
     }
 
